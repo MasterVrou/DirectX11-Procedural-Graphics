@@ -1,0 +1,22 @@
+C:\Users\maste\Desktop\tertut01\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+C:\Users\maste\Desktop\γραφικα\perlin noise\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+C:\Users\maste\Desktop\perlin noise\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+C:\Users\maste\Desktop\γραφικα\perlin + leak\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+C:\Users\maste\Desktop\perlin + leak\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+C:\Users\maste\Desktop\γραφικα\perlin slope\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+C:\Users\maste\Desktop\perlin slope\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+C:\Users\maste\Desktop\perlin slope latest\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+\\StuHomeEven\HomeDrive0$\2105300\Desktop\perlin slope latest\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+\\StuHomeEven\HomeDrive0$\2105300\Desktop\perlin slope latest\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.vcxproj.CopyComplete
+\\StuHomeEven\HomeDrive0$\2105300\Desktop\perlin slope latest\Engine\Bin\Desktop_2015\x64\Debug\xapobaseredist.pdb
+\\StuHomeEven\HomeDrive0$\2105300\Desktop\perlin slope latest\Engine\Bin\Desktop_2015\x64\Debug\xaudio2_9redist.pdb
+\\StuHomeEven\HomeDrive0$\2105300\Desktop\perlin slope latest\Engine\Bin\Desktop_2015\x64\Debug\xaudio2_9redist.dll
+C:\Users\maste\Desktop\perlin slope latest\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.vcxproj.CopyComplete
+C:\Users\maste\Desktop\perlin slope latest\Engine\Bin\Desktop_2015\x64\Debug\xapobaseredist.pdb
+C:\Users\maste\Desktop\perlin slope latest\Engine\Bin\Desktop_2015\x64\Debug\xaudio2_9redist.pdb
+C:\Users\maste\Desktop\perlin slope latest\Engine\Bin\Desktop_2015\x64\Debug\xaudio2_9redist.dll
+C:\Users\maste\Desktop\CMP505\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.vcxproj.CopyComplete
+C:\Users\maste\Desktop\CMP505\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+C:\Users\maste\Desktop\CMP505\Engine\Bin\Desktop_2015\x64\Debug\xapobaseredist.pdb
+C:\Users\maste\Desktop\CMP505\Engine\Bin\Desktop_2015\x64\Debug\xaudio2_9redist.pdb
+C:\Users\maste\Desktop\CMP505\Engine\Bin\Desktop_2015\x64\Debug\xaudio2_9redist.dll

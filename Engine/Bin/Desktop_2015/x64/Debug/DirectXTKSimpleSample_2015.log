@@ -1,0 +1,73 @@
+﻿  compilation object save succeeded; see C:\Users\maste\Desktop\CMP505\Engine\colour_ps.cso
+  compilation object save succeeded; see C:\Users\maste\Desktop\CMP505\Engine\colour_vs.cso
+C:\Users\maste\Desktop\CMP505\Engine\light_ps.hlsl(61,3): warning X4000: use of potentially uninitialized variable (textureColor)
+  
+  compilation object save succeeded; see C:\Users\maste\Desktop\CMP505\Engine\light_ps.cso
+  compilation object save succeeded; see C:\Users\maste\Desktop\CMP505\Engine\light_vs.cso
+  compilation object save succeeded; see C:\Users\maste\Desktop\CMP505\Engine\SkyboxEffect_PS.cso
+  compilation object save succeeded; see C:\Users\maste\Desktop\CMP505\Engine\SkyboxEffect_VS.cso
+  compilation object save succeeded; see C:\Users\maste\Desktop\CMP505\Engine\Water_ps.cso
+C:\Users\maste\Desktop\CMP505\Engine\Water_vs.hlsl(138,11-112): warning X3205: conversion from larger type to smaller, possible loss of data
+C:\Users\maste\Desktop\CMP505\Engine\Water_vs.hlsl(88,17-48): warning X3556: integer modulus may be much slower, try using uints if possible.
+C:\Users\maste\Desktop\CMP505\Engine\Water_vs.hlsl(89,17-52): warning X3556: integer modulus may be much slower, try using uints if possible.
+C:\Users\maste\Desktop\CMP505\Engine\Water_vs.hlsl(90,17-52): warning X3556: integer modulus may be much slower, try using uints if possible.
+C:\Users\maste\Desktop\CMP505\Engine\Water_vs.hlsl(91,17-56): warning X3556: integer modulus may be much slower, try using uints if possible.
+C:\Users\maste\Desktop\CMP505\Engine\Water_vs.hlsl(92,17-52): warning X3556: integer modulus may be much slower, try using uints if possible.
+C:\Users\maste\Desktop\CMP505\Engine\Water_vs.hlsl(93,17-56): warning X3556: integer modulus may be much slower, try using uints if possible.
+  compilation object save succeeded; see C:\Users\maste\Desktop\CMP505\Engine\Water_vs.cso
+C:\Users\maste\Desktop\CMP505\Engine\Water_vs.hlsl(94,17-56): warning X3556: integer modulus may be much slower, try using uints if possible.
+C:\Users\maste\Desktop\CMP505\Engine\Water_vs.hlsl(95,17-60): warning X3556: integer modulus may be much slower, try using uints if possible.
+C:\Users\maste\Desktop\CMP505\Engine\Water_vs.hlsl(124,15-32): warning X3578: Output value 'main' is not completely initialized
+  
+  pch.cpp
+  Camera.cpp
+  Collision.cpp
+C:\Users\maste\Desktop\CMP505\Engine\Collision.cpp(8,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\maste\Desktop\CMP505\Engine\Collision.cpp(10,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\maste\Desktop\CMP505\Engine\Collision.cpp(12,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  DeviceResources.cpp
+  Game.cpp
+C:\Users\maste\Desktop\CMP505\Engine\Game.cpp(295,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\maste\Desktop\CMP505\Engine\Game.cpp(311,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\maste\Desktop\CMP505\Engine\Game.cpp(365,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\maste\Desktop\CMP505\Engine\Game.cpp(564,135): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\maste\Desktop\CMP505\Engine\Game.cpp(603,130): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\maste\Desktop\CMP505\Engine\Game.cpp(708,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\maste\Desktop\CMP505\Engine\Game.cpp(768,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\maste\Desktop\CMP505\Engine\Game.cpp(770,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\maste\Desktop\CMP505\Engine\Game.cpp(772,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  Input.cpp
+C:\Users\maste\Desktop\CMP505\Engine\Input.cpp(77,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\maste\Desktop\CMP505\Engine\Input.cpp(78,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\maste\Desktop\CMP505\Engine\Input.cpp(111,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\maste\Desktop\CMP505\Engine\Input.cpp(112,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Light.cpp
+  Main.cpp
+  modelclass.cpp
+C:\Users\maste\Desktop\CMP505\Engine\modelclass.cpp(32,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\maste\Desktop\CMP505\Engine\modelclass.cpp(33,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\maste\Desktop\CMP505\Engine\modelclass.cpp(48,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\maste\Desktop\CMP505\Engine\modelclass.cpp(49,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\maste\Desktop\CMP505\Engine\modelclass.cpp(65,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\maste\Desktop\CMP505\Engine\modelclass.cpp(66,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\maste\Desktop\CMP505\Engine\modelclass.cpp(281,28): warning C4477: 'fscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+C:\Users\maste\Desktop\CMP505\Engine\modelclass.cpp(281,28): message : this argument is used as a buffer size
+  PerlinNoise.cpp
+  RenderTexture.cpp
+  Shader.cpp
+  SkyboxEffect.cpp
+  Terrain.cpp
+C:\Users\maste\Desktop\CMP505\Engine\Terrain.cpp(27,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\maste\Desktop\CMP505\Engine\Terrain.cpp(451,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\maste\Desktop\CMP505\Engine\Terrain.cpp(468,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\maste\Desktop\CMP505\Engine\Terrain.cpp(522,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\maste\Desktop\CMP505\Engine\Terrain.cpp(539,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+     Creating library Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.lib and object Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exp
+  DirectXTKSimpleSample_2015.vcxproj -> C:\Users\maste\Desktop\CMP505\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
